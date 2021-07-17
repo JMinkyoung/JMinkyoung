@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=cee5d5&height=200&section=header&text=JMinkyoung🍔&fontsize=100)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&theme=radical)-->
 
 
 <div align=center>
   
+![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&theme=vue&bg_color=cee5d5&text_color=3D6649)
+
 ## Welcome to my Github 👋
   
 #### I'm Minkyoung Jwa, want to be a Front-End devleoper 🧐<br><br>
