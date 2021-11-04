@@ -9,7 +9,7 @@
 
 ## Welcome to my Github 👋
   
-#### I'm Minkyoung Jwa, want to be a Front-End devleoper 🧐<br><br>
+#### I'm Minkyoung Jwa, want to be a Web devleoper 🧐<br><br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)-->
 
@@ -24,7 +24,8 @@
   [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
   [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)]()
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)]()
-  
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
+
   [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
   [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
