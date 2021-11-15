@@ -5,8 +5,7 @@
   
 ![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&theme=vue&bg_color=cee5d5&text_color=3D6649)
   
-![https://www.codewars.com/users/JMinkyoung](https://www.codewars.com/users/JMinkyoung/badges/large)
-
+  
 ## Welcome to my Github 👋
   
 #### I'm Minkyoung Jwa, want to be a Web devleoper 🧐<br><br>
