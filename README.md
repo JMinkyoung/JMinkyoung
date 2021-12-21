@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=22577E&height=250&section=header&text=JMinkyoung🍔&fontsize=100&fontsize=100)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=22577E&height=200&section=header&text=JMinkyoung🍔&fontsize=100&fontsize=100)
 <div align=center>
   
 [![JMinkyoung's github activity graph](https://activity-graph.herokuapp.com/graph?username=JMinkyoung&bg_color=5584AC&line=95D1CC&color=F6F2D4&point=F6F2D4&&hide_border=true&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
