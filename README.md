@@ -7,7 +7,7 @@
   
 ## Welcome to my Github 👋
   
-#### I'm Minkyoung Jwa, want to be a Web devleoper 🧐<br><br>
+#### I'm Minkyoung Jwa, want to be a Front-end Developer 🧐<br><br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)-->
 
