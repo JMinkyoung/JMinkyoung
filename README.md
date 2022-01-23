@@ -4,7 +4,9 @@
 <!-- [![JMinkyoung's github activity graph](https://activity-graph.herokuapp.com/graph?username=JMinkyoung&bg_color=5584AC&line=95D1CC&color=F6F2D4&point=F6F2D4&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
 ![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&bg_color=5584AC&text_color=C4E0F9&title_color=C4E0F9&icon_color=6096C4)
-  
+
+[![JMinkyoung's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=JMinkyoung&theme=dark)](https://leetcode.com/JMinkyoung/)
+
 ## Welcome to my Github 👋
   
 #### I'm Minkyoung Jwa, want to be a Front-end Developer 🧐<br><br>
