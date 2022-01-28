@@ -5,13 +5,15 @@
  -->
 ![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&bg_color=F5B949&text_color=5E4921&title_color=5E4921&icon_color=29200E)
 
-[![JMinkyoung's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=JMinkyoung&theme=dark)](https://leetcode.com/JMinkyoung/)
+[![JMinkyoung's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=JMinkyoung)](https://leetcode.com/JMinkyoung/)
 
 ## Welcome to my Github 👋
   
 #### I'm Minkyoung Jwa, want to be a Front-end Developer 🧐<br><br>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)-->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=github
+)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
+ -->
 
 
 ## 🖥 My Stack 🖥 
