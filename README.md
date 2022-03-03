@@ -10,8 +10,7 @@
 ## Welcome to my Github 👋
   
 #### I'm Minkyoung Jwa, want to be a Front-end Developer 🧐<br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=github
-)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=til)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
  -->
 
