@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f5bc55&height=200&section=header&text=JMinkyoung🍔&fontsize=100&fontsize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3F72AF&height=200&section=header&text=JMinkyoung🍔&fontsize=100&fontsize=100)
 <div align=center>
   
 <!-- [![JMinkyoung's github activity graph](https://activity-graph.herokuapp.com/graph?username=JMinkyoung&bg_color=5584AC&line=95D1CC&color=F6F2D4&point=F6F2D4&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
-![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&bg_color=F5B949&text_color=5E4921&title_color=5E4921&icon_color=29200E)
+![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&bg_color=3F72AF&text_color=F2f2f2&title_color=F2f2f2&icon_color=F2f2f2)
 
 [![JMinkyoung's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=JMinkyoung)](https://leetcode.com/JMinkyoung/)
 
