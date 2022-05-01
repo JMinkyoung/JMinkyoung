@@ -9,7 +9,7 @@
 
 ## Welcome to my Github 👋
   
-#### I'm Minkyoung Jwa, want to be a Front-end Developer 🧐<br><br>
+#### 안녕하세요 ! Junior Frontend Engineer 좌민경입니다 !🧐<br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=til)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
  -->
@@ -35,7 +35,8 @@
 <br><br>
   
 ## 📚 📟
-  
+
+<!-- [![Portfolio](https://img.shields.io/badge/Velog-12b886?style=flat-square&logo=Vimeo&logoColor=white)](https://jminkyoung.github.io/portfolio/) -->
 [![Velog](https://img.shields.io/badge/Velog-12b886?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@jminkyoung)
 <a href="mailto:whk5817@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whk5817@gmail.com"/></a>
 </div>
