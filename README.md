@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3F72AF&height=200&section=header&text=JMinkyoung🍔&fontsize=100&fontsize=100)
 <div align=center>
   
+
 <!-- [![JMinkyoung's github activity graph](https://activity-graph.herokuapp.com/graph?username=JMinkyoung&bg_color=5584AC&line=95D1CC&color=F6F2D4&point=F6F2D4&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
 ![JMinkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMinkyoung&show_icons=true&bg_color=3F72AF&text_color=F2f2f2&title_color=F2f2f2&icon_color=F2f2f2)
@@ -14,7 +15,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
  -->
 
- <img src="https://ghchart.rshah.org/3F72AF/JMinkyoung"/>
+<!--  <img src="https://ghchart.rshah.org/3F72AF/JMinkyoung"/> -->
+<img src="https://user-images.githubusercontent.com/37430920/166623261-dfbc10a5-c222-4ac3-8a0e-594a93d06616.png" style="width:500px"/>
 
 ## 🖥 My Stack 🖥 
 
