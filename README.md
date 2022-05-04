@@ -14,6 +14,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
  -->
 
+ <img src="https://ghchart.rshah.org/3F72AF/JMinkyoung"/>
 
 ## 🖥 My Stack 🖥 
 
