@@ -16,7 +16,8 @@
  -->
 
 <!--  <img src="https://ghchart.rshah.org/3F72AF/JMinkyoung"/> -->
-<img src="https://user-images.githubusercontent.com/37430920/166623261-dfbc10a5-c222-4ac3-8a0e-594a93d06616.png" style="width:500px"/>
+
+<img src="https://user-images.githubusercontent.com/37430920/167302050-bf61f0c8-daec-4c83-917e-c34b6c517558.png" style="width:500px"/>
 
 ## 🖥 My Stack 🖥 
 
