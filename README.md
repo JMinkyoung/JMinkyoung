@@ -5,7 +5,7 @@
 <!-- [![JMinkyoung's github activity graph](https://activity-graph.herokuapp.com/graph?username=JMinkyoung&bg_color=5584AC&line=95D1CC&color=F6F2D4&point=F6F2D4&custom_title=My%20Github%20activity%20graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
 
-[![JMinkyoung's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=JMinkyoung)](https://leetcode.com/JMinkyoung/)
+<!--[![JMinkyoung's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=JMinkyoung)](https://leetcode.com/JMinkyoung/) -->
 
 ## Welcome to my Github 👋
   
@@ -15,8 +15,6 @@
  -->
 
 <!--  <img src="https://ghchart.rshah.org/3F72AF/JMinkyoung"/> -->
-
-<img src="https://user-images.githubusercontent.com/37430920/167302050-bf61f0c8-daec-4c83-917e-c34b6c517558.png" style="width:500px"/>
 
 ## 🖥 My Stack 🖥 
 
