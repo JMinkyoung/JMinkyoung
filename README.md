@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3F72AF&height=200&section=header&text=JMinkyoung🍔&fontsize=100&fontsize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3F72AF&height=200&section=header&text=JMinkyoung🦕&fontsize=100&fontsize=100)
 <div align=center>
   
 
@@ -9,14 +9,14 @@
 
 ## Welcome to my Github 👋
   
-#### 안녕하세요 ! Junior Frontend Engineer 좌민경입니다 !🧐<br><br>
+#### 안녕하세요 ! Frontend Engineer 좌민경입니다 !🧐<br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=til)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
  -->
 
 <!--  <img src="https://ghchart.rshah.org/3F72AF/JMinkyoung"/> -->
 
-## 🖥 My Stack 🖥 
+<!--## 🖥 My Stack 🖥 
 
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
@@ -33,7 +33,7 @@
   [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
-<br><br>
+<br><br> -->
   
 ## 📚 📟
 
