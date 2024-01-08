@@ -10,7 +10,7 @@
 ## Welcome to my Github 👋
   
 #### 안녕하세요 ! Frontend Engineer 좌민경입니다 !🧐<br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=til)
+<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jminkyoung&color=f5bc55)](https://velog-readme-stats.vercel.app/api/redirect?name=jminkyoung&tag=til)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMinkyoung&hide=jupyter%20notebook,dart&layout=compact)](https://github.com/JMinkyoung)
  -->
 
